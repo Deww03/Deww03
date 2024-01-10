@@ -26,7 +26,7 @@ I am a Student from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: kurniawanadams72@gmail.com
+- :mailbox: How to reach me: kurniawanadams72@gmail.com
 
 ---
 
