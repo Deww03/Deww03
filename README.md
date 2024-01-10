@@ -19,7 +19,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Student from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m studying at University of Insan Pembangunan Indonesia.
 
 - :seedling: All of my projects are available at https://github.com/deww03
