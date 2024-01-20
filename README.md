@@ -35,7 +35,7 @@ I am a Student from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox: How to reach me: <br>
+- :mailbox: How to reach me: <br> <br>
       <a href="https://www.linkedin.com/in/adam-kurniawan-7831352a9/">
       <img src="https://img.shields.io/badge/Adam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
     </a>
