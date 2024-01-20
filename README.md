@@ -2,21 +2,6 @@
   <img src="https://camo.githubusercontent.com/5ac1a700d41a1c1fbd8ec4ee168a0be6566130d9e19b61a4c6c42f807761918c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436d72314f4d4a32464e3042322f67697068792e676966" width="350"/>
 </div>
 
-<div id="header" align="center">
-    <a href="https://www.linkedin.com/in/adam-kurniawan-7831352a9/">
-      <img src="https://img.shields.io/badge/Adam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXxFzkkGbqRsRvpGqBxpFPTQmkrBvBkqCdXFKGmhPTqGjXTHSkqwhTZFmVLMPBRCmgRQq">
-      <img src="https://img.shields.io/badge/Adam-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://web.facebook.com/adam.kurniawan.9250595">
-      <img src="https://img.shields.io/badge/Adam-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/damkrn_/">
-      <img src="https://img.shields.io/badge/Adam-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-</div>
-
 <div align="center" id="badges">
 <h1>
   Hi, Im Adam
